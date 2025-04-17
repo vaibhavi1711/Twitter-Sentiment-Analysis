@@ -18,8 +18,13 @@ This project performs sentiment analysis on Twitter data using Natural Language 
 🧠 Technologies Used
 
 -Python 3.11
+<br>
 -pandas, numpy
+<br>
 -nltk (Natural Language Toolkit)
+<br>
 -scikit-learn (TF-IDF, ML models)
+<br>
 -pickle (for model serialization)
+<br>
 -Kaggle API (for dataset access)
